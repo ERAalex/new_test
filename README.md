@@ -4,7 +4,7 @@
 
 <img src="https://github.com/ERAalex/new_test/blob/main/marketplace.png">
 
-<br><a href="mailto:service000market@gmail.com"><img src="https://img.shields.io/badge/-Gmail%20contact%20me-red"></a>
+<br><a href="mailto:service000market@gmail.com"><img src="https://img.shields.io/badge/-Gmail%20contact%20us-red"></a>
 <br><a href="#"><img src="https://img.shields.io/badge/-Telegram-blue"></a>
 
 ## About the project.
@@ -22,7 +22,7 @@ This project is under development.<br>
 наберите http://127.0.0.1:8000/swagger/  или http://127.0.0.1:8000/redoc/
 
 
-
+### Наши разработчики.
 
 
 <br/><br/>
