@@ -1,13 +1,10 @@
 
-#### E.R.A. - Espinosa Rozov Alexander - python developer.
-# Project - Mobile Online Shop
+#### Django API. Python developer.
+# Project - Marketplace Tumen
 
-<img src="https://github.com/ERAalex/project_Web_Site_Mobiles/blob/main/new_fon_mobile.png">
-<p>
-  <a href="https://www.linkedin.com/in/alexander-espinosa-rozov-b3b270121/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+<img src="https://github.com/ERAalex/new_test/blob/main/market_image.png">
 
-<br><a href="mailto:erapyth@gmail.com"><img src="https://img.shields.io/badge/-Gmail%20contact%20me-red"></a>
+<br><a href="mailto:service000market@gmail.com"><img src="https://img.shields.io/badge/-Gmail%20contact%20me-red"></a>
 <br><a href="https://t.me/espinosa_python"><img src="https://img.shields.io/badge/-Telegram-blue"></a>
 
 ## About the project.
