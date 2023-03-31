@@ -2,7 +2,7 @@
 #### Django API.
 # Project - Marketplace Tumen
 
-<img src="https://github.com/ERAalex/new_test/blob/main/market_image.png">
+<img src="https://github.com/ERAalex/new_test/blob/main/marketplace.png">
 
 <br><a href="mailto:service000market@gmail.com"><img src="https://img.shields.io/badge/-Gmail%20contact%20me-red"></a>
 <br><a href="#"><img src="https://img.shields.io/badge/-Telegram-blue"></a>
